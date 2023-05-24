@@ -21,7 +21,7 @@ _✨ 文件分享工具，仅单个可执行文件，开箱即用，可用于局
 </p>
 
 ------------------------------
-# 使用说明
+## 使用说明
 
 一键搭建脚本 (环境选择`Bash` 或 `Blank Repl`)   
 
@@ -29,5 +29,7 @@ Go-File-Replit一键脚本
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/go-file-replit/master/install.sh)
 ```
-# 关于后续更新
+## 默认账号密码
+- 账号`admin`密码`123456`
+## 关于后续更新
 - 点击项目`Stop`按钮，再点击`Run`按钮，系统自动下载最新的latest版本。
